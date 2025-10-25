@@ -5,8 +5,8 @@ export default function Credit() {
     <div className="credit">
       <p>
         Coded by 
-        <a href="https://github.com/vcr11" target="_blank" rel="noopener noreferrer">
-           Chandra Shekar Reddy Vangala
+        <a href="https://github.com/chaitanya1301" target="_blank" rel="noopener noreferrer">
+            Chaitanay Ginnela
         </a>
       </p>
     </div>
