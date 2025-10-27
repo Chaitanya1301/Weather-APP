@@ -4,7 +4,7 @@ This is a Weather App built with React.js that allows users to search for and di
 
 ## Demo
 
-Check out the live demo of the app here: [Weather App Demo](https://vcr11.github.io/Wheather-APP/)
+Check out the live demo of the app here: [Weather App Demo](https://github.com/Chaitanya1301/Weather-APP.git)
 
 ## Features
 
@@ -31,7 +31,7 @@ To run this project locally on your machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/vcr11/Wheather-APP.git
+git clone https://github.com/Chaitanya1301/Weather-APP.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -52,7 +52,7 @@ npm install
 
 ### 4. Obtain an API Key from OpenWeather
 
-You need an API key from OpenWeather to fetch weather data. If you don't have one, you can sign up for a free account and obtain your API key [here](https://home.openweathermap.org/users/sign_up).
+You need an API key from OpenWeather to fetch weather data. If you don't have one, you can sign up for a free account and obtain your API key [here](https://chaitanya1301.github.io/Weather-APP/).
 
 ### 5. Set Up Your API Key
 
@@ -85,7 +85,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
 2. Update your `package.json` file with the following additions:
 
    ```json
-   "homepage": "https://vcr11.github.io/Wheather-APP",
+   "homepage": "",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
@@ -98,7 +98,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
    npm run deploy
    ```
 
-The app will be deployed to `https://vcr11.github.io/Wheather-APP`.
+The app will be deployed to `https://github.com/Chaitanya1301/Weather-APP.git`.
 
 ## Usage
 
@@ -109,5 +109,5 @@ The app will be deployed to `https://vcr11.github.io/Wheather-APP`.
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **GitHub**: [vcr11](https://github.com/vcr11)
+- **GitHub**: [Chaitu1301](https://github.com/Chaitanya1301)
 
